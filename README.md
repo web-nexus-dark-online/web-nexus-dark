@@ -47,4 +47,6 @@ As always, exercise extreme caution when participating in darknet markets and en
 **Disclaimer**: This article is for educational and informational purposes only. Accessing or engaging in activity on darknet marketplaces may be illegal in your jurisdiction.
 ```
 
-Update:  14 September
+
+
+Update:  18.09.2025 TOR links fixed
