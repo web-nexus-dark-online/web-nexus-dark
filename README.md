@@ -49,4 +49,6 @@ As always, exercise extreme caution when participating in darknet markets and en
 
 
 
-Update:  18.09.2025 TOR links fixed
+
+
+Update:  01.10.2025
